@@ -17,7 +17,7 @@ if(isset($_POST['tambah_programmer'])){
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 <body class="container bg-primary mt-5">
-    <form action="" method="post" class="p-3 bg-light shadow rounded" style="width:80%; margin-left: auto; margin-right: auto;">
+    <form action="" method="post" class="p-3 bg-light shadow rounded" style="width:80%;">
         <div class="form-group">
         <label for="nama">Tambah Baru:</label>
         <div class="form-row">
