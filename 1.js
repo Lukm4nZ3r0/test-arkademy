@@ -1,7 +1,7 @@
 function myBio(){
     var biodata = {
         "name":"Asep Lukman Hakim",
-        "Address":"Jl. Mahoni Tengah No F35, GSP. Cirebon. Jawa Barat",
+        "Address":"Cirebon. Jawa Barat",
         "hobbies":"Ngoding",
         "is_married":false,
         "school":[{"highSchool":"SMAN 6 Cirebon"},{"university":"UNSWAGATI"}],
