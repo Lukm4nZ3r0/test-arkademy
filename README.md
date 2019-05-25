@@ -9,3 +9,6 @@
 # Catatan Pengerjaan
   Untuk nomor 1 s.d 3 menggunakan Javascript, sedangkan nomor 4 s.d 5 menggunakan PHP.
   Nomor 6 Bagian B, terdapat didalam folder Arkademy. Didalam folder tersebut sudah termasuk file databasenya.
+  
+# Screenshot Nomor 6 Bagian B
+https://github.com/Lukm4nZ3r0/test-arkademy/blob/master/Arkademy/screenshot/Image1.png
