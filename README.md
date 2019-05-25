@@ -7,4 +7,5 @@
     JSON adalah salah satu contoh output data yang dapat dipakai oleh aplikasi yang berbeda.
     
 # Catatan Pengerjaan
-  Untuk nomor 1 s.d 3 menggunakan Javascript, sedangkan nomor 4 s.d 5 menggunakan PHP
+  Untuk nomor 1 s.d 3 menggunakan Javascript, sedangkan nomor 4 s.d 5 menggunakan PHP.
+  Nomor 6 Bagian B, terdapat didalam folder Arkademy. Didalam folder tersebut sudah termasuk file databasenya.
