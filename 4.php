@@ -14,8 +14,8 @@ function cetak_gambar($angka){
         for($a = 0 ; $a < $angka ; $a++ ){
             $kataBantu = $kataBantu.'= ';
         }
-        $kataBantuSplit = explode(' ',$kataBantu); // pisahkan dengan spasi
-        $kataBantuTengah = ceil(count($kataBantuSplit)/2); // 3
+        $kataBantuSplit = explode(' ',$kataBantu); // buat array dengan spasi sebagai pembatas
+        $kataBantuTengah = ceil(count($kataBantuSplit)/2); // nilai Tengah dibulatkan keatas
 
         $kataBaru = '';
         for($a = 0 ; $a < $angka ; $a++){
@@ -32,7 +32,7 @@ function cetak_gambar($angka){
             $kataTengah = $kataTengah.$kataBantuFinal;
         }
         echo $kata;
-        echo $kataTengah; // = = = = = 3x
+        echo $kataTengah; // loop kata bagian tengah
         echo $kata;
     }
     else{
