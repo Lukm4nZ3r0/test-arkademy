@@ -11,4 +11,8 @@
   Nomor 6 Bagian B, terdapat didalam folder Arkademy. Didalam folder tersebut sudah termasuk file databasenya.
   
 # Screenshot Nomor 6 Bagian B
+Sebelum:
 https://github.com/Lukm4nZ3r0/test-arkademy/blob/master/Arkademy/screenshot/Image1.png
+
+Sesudah:
+https://github.com/Lukm4nZ3r0/test-arkademy/blob/master/Arkademy/screenshot/Image2.png
