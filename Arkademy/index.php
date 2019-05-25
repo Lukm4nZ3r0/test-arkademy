@@ -1,9 +1,7 @@
 <?php
 include 'koneksi.php';
-
 if(isset($_POST['tambah_programmer'])){
     $nama = $_POST['nama'];
-
     $query = mysqli_query($conn,"INSERT INTO users (name) VALUES ('$nama')");
 }
 ?>
@@ -30,7 +28,7 @@ if(isset($_POST['tambah_programmer'])){
     $query = mysqli_query($conn, "SELECT users.name, users.id FROM users");
     while($queryArray = mysqli_fetch_array($query)){
 ?>
-    <div class="row mt-3 bg-light rounded shadow p-3" style="width:90%; margin-left: auto; margin-right: auto;">
+    <div class="row mt-3 bg-light rounded shadow p-3 ml-1" style="width:90%;">
         <div class="col">
         <h2><?= $queryArray['name'] ?></h2>
         <p>
