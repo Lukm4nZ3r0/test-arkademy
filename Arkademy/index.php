@@ -16,7 +16,7 @@ if(isset($_POST['tambah_programmer'])){
 </head>
 <body class="container bg-primary mt-5">
     <!-- Add Programmers name form -->
-    <form action="" method="post" class="p-3 bg-light shadow rounded" style="width:80%;">
+    <form action="" method="post" class="p-3 bg-light shadow rounded" style="width:90%;">
         <div class="form-group">
         <label for="nama">Tambah Baru:</label>
         <div class="form-row">
